@@ -1,0 +1,6 @@
+.local/*
+.settings/*/*
+Exceptions_Screenshots/*
+Data/Input/*
+Data/Output/*
+Data/Temp/*
